@@ -1,0 +1,4 @@
+baseURL = "https://rraraka.github.io/"
+languageCode = "zh-tw"
+title = "rrk Blog"
+theme = "casper"
